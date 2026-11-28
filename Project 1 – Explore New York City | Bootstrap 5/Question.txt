@@ -55,32 +55,7 @@ Your website should include the following sections:
 - Maintain a clean and user-friendly interface.
 - Organize the webpage into clearly defined sections.
 
-## 📸 Screenshots of how the website should look (For reference)
-
-### Carousel Page
-![Homepage](screenshots/carouselpage.png)
-
-### Home Page
-![Destinations](screenshots/homepage.png)
-
-### Top Destinations
-![About Us](screenshots/topdestinations1.png)
-
-### Top Destinations
-![Registration Form](screenshots/topdestinations2.png)
-
-### About us
-![Registration Form](screenshots/aboutus.png)
-
-### Table Package
-![Registration Form](screenshots/tablepackagespage.png)
-
-### Register your Trip
-![Registration Form](screenshots/register_your_trippage.png)
-
-### Footer section
-![Registration Form](screenshots/footerpage.png)
-
+## 📸 Screenshots of how the website are posted in readme.md file (For reference)
 
 ## Expected Outcome
 
