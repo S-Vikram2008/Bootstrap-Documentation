@@ -36,6 +36,7 @@ Project-1-Explore-New-York/
 ├── index.html
 └── README.md
 └──Question.txt
+└──screenshots
 ```
 
 ## Screenshots of the website (For reference)
