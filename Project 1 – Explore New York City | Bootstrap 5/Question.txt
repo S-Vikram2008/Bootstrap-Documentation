@@ -1,0 +1,95 @@
+# Project 1: Explore New York City – Responsive Tourism Website
+
+## Problem Statement
+
+Design and develop a responsive tourism website titled **"Explore New York City"** using HTML5 and Bootstrap 5.
+
+The website should provide visitors with information about popular tourist attractions in New York City, introduce travel packages, and allow users to register for a trip.
+
+## Requirements
+
+Your website should include the following sections:
+
+1. **Navigation Bar**
+   - Create a responsive navigation bar.
+   - Include links such as Home, Destinations, About Us, and Register.
+
+2. **Image Carousel**
+   - Display multiple images of popular New York City attractions.
+   - Include appropriate captions for each slide.
+
+3. **Introduction Section**
+   - Add a welcome heading and a short introduction about New York City.
+   - Display an image alongside the introductory content.
+
+4. **Top Destinations**
+   - Display popular tourist attractions using Bootstrap cards.
+   - Include destination images, descriptions, ratings, and badges.
+   - Use a Bootstrap grid layout to arrange the cards.
+
+5. **Progress Indicators**
+   - Use Bootstrap progress bars to represent destination popularity or visitor interest.
+
+6. **About Us**
+   - Create an About Us section with relevant images and information.
+   - Include a customer testimonial using a blockquote.
+
+7. **Travel Packages**
+   - Create a comparison table displaying different travel packages.
+   - Include package duration and pricing details.
+
+8. **Trip Registration Form**
+   - Create a form to collect visitor details.
+   - Include text fields, email, phone number, date picker, dropdown, checkboxes, and a textarea.
+   - Provide Submit and Reset buttons.
+
+9. **Footer**
+   - Include copyright information and contact details.
+
+## Technical Requirements
+
+- Use HTML5 for structuring the webpage.
+- Use Bootstrap 5 for styling and responsive layouts.
+- Implement Bootstrap components wherever appropriate.
+- Use the Bootstrap grid system to ensure responsiveness.
+- Maintain a clean and user-friendly interface.
+- Organize the webpage into clearly defined sections.
+
+## 📸 Screenshots of how the website should look (For reference)
+
+### Carousel Page
+![Homepage](screenshots/carouselpage.png)
+
+### Home Page
+![Destinations](screenshots/homepage.png)
+
+### Top Destinations
+![About Us](screenshots/topdestinations1.png)
+
+### Top Destinations
+![Registration Form](screenshots/topdestinations2.png)
+
+### About us
+![Registration Form](screenshots/aboutus.png)
+
+### Table Package
+![Registration Form](screenshots/tablepackagespage.png)
+
+### Register your Trip
+![Registration Form](screenshots/register_your_trippage.png)
+
+### Footer section
+![Registration Form](screenshots/footerpage.png)
+
+
+## Expected Outcome
+
+Develop a visually appealing and responsive tourism website that allows visitors to explore New York City's attractions, compare travel packages, and register for a trip.
+
+**Deliverables:**
+- `index.html` – Website source code.
+- `question.txt` – Assignment problem statement.
+- `README.md` – Project documentation.
+- Screenshots of the completed website.
+
+
