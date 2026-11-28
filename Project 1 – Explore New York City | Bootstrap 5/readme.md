@@ -38,6 +38,32 @@ Project-1-Explore-New-York/
 └──Question.txt
 ```
 
+## Screenshots of the website (For reference)
+
+### Carousel Page
+![Homepage](screenshots/carouselpage.png)
+
+### Home Page
+![Destinations](screenshots/homepage.png)
+
+### Top Destinations
+![About Us](screenshots/topdestinations1.png)
+
+### Top Destinations
+![Registration Form](screenshots/topdestinations2.png)
+
+### About us
+![Registration Form](screenshots/aboutus.png)
+
+### Table Package
+![Registration Form](screenshots/tablepackagespage.png)
+
+### Register your Trip
+![Registration Form](screenshots/register_your_trippage.png)
+
+### Footer section
+![Registration Form](screenshots/footerpage.png)
+
 ## 🚀 How to Run
 
 1. Clone this repository or download the project.
